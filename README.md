@@ -1,5 +1,5 @@
 <img src="https://github.com/thisiskartikgupta/Atlantisian-And-The-Mermaid/blob/master/readme_files/full_width.png"></img>
-#
+##
 <img src="https://github.com/thisiskartikgupta/Atlantisian-And-The-Mermaid/blob/master/readme_files/Untitled design (1).png" height=200 width= 200></img>
 <img src="https://github.com/thisiskartikgupta/Atlantisian-And-The-Mermaid/blob/master/readme_files/Spark-AR-Player-for-PC-Windows-10-6432-bit-2019-Latest-Version.png" height=200 width= 200 align="right"></img>
 # Atlantisian And The Mermaid AR
