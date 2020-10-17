@@ -8,8 +8,14 @@
  
 In this game, the user helps the Atlantisian collects the waste dumped into the water bodies and gets rewarded with a beautiful mermaid for each five items he collects, as promised by the King Of Atlantis. So, check out this filter and give him a helping hand.
 ## About Me
- ##### __Kartik Gupta__ (Student)
- ##### __Email__    : thisiskartikgupta@gmail.com
- #####  __Linkedin__ : <a href="https://www.linkedin.com/in/thisiskartikgupta"> CLICK HERE </a>
+##### __Kartik Gupta__ (Student)
+##### __Email__    : thisiskartikgupta@gmail.com
+#####  __Linkedin__ : <a href="https://www.linkedin.com/in/thisiskartikgupta"> CLICK HERE </a>
  
  
+
+
+
+
+
+
