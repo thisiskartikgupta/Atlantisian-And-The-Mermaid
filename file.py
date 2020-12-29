@@ -1,6 +1,0 @@
-f=open("test.txt",'a')
-s=input("Enter the content:")
-f.write(s)
-f.close()
-f=open("test.txt")
-print(f.read())
